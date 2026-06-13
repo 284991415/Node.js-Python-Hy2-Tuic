@@ -5,7 +5,7 @@
 * Hysteria2
 
 ```bash
-curl -Ls https://raw.githubusercontent.com/a88wyzz/Node.js-Python-Hy2-Tuic/main/hy2.sh | sed 's/\r$//' | bash
+curl -Ls https://raw.githubusercontent.com/284991415/Node.js-Python-Hy2-Tuic/main/hy2.sh | sed 's/\r$//' | bash
 ```
 
 # 2.TUIC在Nodejs/Python一键脚本极简部署（Pterodactyl 翼龙面板）
@@ -15,7 +15,7 @@ curl -Ls https://raw.githubusercontent.com/a88wyzz/Node.js-Python-Hy2-Tuic/main/
 * TUIC
 
 ```bash
-curl -Ls https://raw.githubusercontent.com/a88wyzz/Node.js-Python-Hy2-Tuic/main/tuic.sh | sed 's/\r$//' | bash
+curl -Ls https://raw.githubusercontent.com/284991415/Node.js-Python-Hy2-Tuic/main/tuic.sh | sed 's/\r$//' | bash
 ```
 
 
